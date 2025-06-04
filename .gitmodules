@@ -1,6 +1,6 @@
 [submodule "betr_reflect"]
 	path = betr_reflect
 	url = https://github.com/HashimHS/BETR-REFLECT.git
-[submodule "robowin"]
-	path = robowin
+[submodule "robotwin"]
+	path = robotwin
 	url = https://github.com/TianxingChen/RoboTwin
