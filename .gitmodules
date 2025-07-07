@@ -1,6 +1,8 @@
 [submodule "betr_reflect"]
 	path = betr_reflect
 	url = git@github.com:HashimHS/BETR-REFLECT.git
+	branch = develop_holdingconditions
+
 [submodule "robotwin"]
 	path = robotwin
 	url = https://github.com/Taokt/RoboTwin
